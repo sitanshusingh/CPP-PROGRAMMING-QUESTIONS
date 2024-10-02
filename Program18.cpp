@@ -10,6 +10,6 @@ int main(){
     int mid = start + (end - start) / 2;
     for(int i=0;i<=mid; i++){
         cout<<arr[i]<<" ";
-    }
+        }
 return 0;
 }
