@@ -1,8 +1,7 @@
 #include<iostream>
 using namespace std;
 
-
-// Absolute Sum Array(all negetive number become positve then add all array number)
+ //Absolute Sum Array(all negative numbers become positive then add all array numbers)
 
 int main(){
     
