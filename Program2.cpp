@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
-//  Print The Equivalent ASCII  Character of the Given Number
+//  Print The ASCII Value of Character
 int main(){
     char ch;
     cout<<"Enter Char word "<<endl;
     cin>>ch;
-    cout<<"The Equivalent Character fo the Given Number "<<int(ch);
+    cout<<"The ASCII Value is "<<int(ch);
     return 0;
 }
