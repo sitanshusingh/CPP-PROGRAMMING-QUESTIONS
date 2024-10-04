@@ -18,6 +18,5 @@ int main(){
     int arr[] = {7,8,5,3,2,1};
     int size = sizeof(arr)/sizeof(int);
     midEnd(arr,size);
-
     return 0;
 }
