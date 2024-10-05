@@ -14,6 +14,5 @@ int main(){
         sum+=arr[i];
     }
     cout<<"Sum of Array From Start to Mid "<<sum<<endl;
-
     return 0;
 }
