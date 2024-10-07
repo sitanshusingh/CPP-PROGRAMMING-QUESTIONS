@@ -7,4 +7,5 @@ int main(){
     cin>>ch;
     cout<<"The ASCII Value is "<<int(ch);
     return 0;
+    
 }
