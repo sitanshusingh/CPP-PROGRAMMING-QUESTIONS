@@ -13,6 +13,5 @@ if(num%2==0){
 else{
     cout<<num<<" is a Odd Number ";
 }
-
 return 0;
 }
